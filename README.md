@@ -12,6 +12,7 @@ Contact.html — contact form and details
 /js/ — scripts
 /images/ — media files
 README.md — project information
+
 Usage:
 Update the HTML, CSS, and JS files to personalize content and design.
 Commit and push changes to GitHub to keep your site version-controlled.
